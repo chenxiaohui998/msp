@@ -1,0 +1,2 @@
+# msp
+Magazine subscription platform
